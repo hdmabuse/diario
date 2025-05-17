@@ -1,0 +1,1016 @@
+{
+  "vaultName": "Escrita de Tese",
+  "lastExport": 1747478456952,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Bios/Alan Turing.md",
+    "Bios/Álvaro Vieira Pinto.md",
+    "Conceitos/Amanualidade.md",
+    "Conceitos/AnatomyOfAI.pdf",
+    "Conceitos/Antropoceno.md",
+    "Conceitos/Ciência de Dados 1.md",
+    "Conceitos/Colonialismo.md",
+    "Conceitos/Colonialismo digital.md",
+    "Conceitos/Colonialismo e Imperialismo de Dados.md",
+    "Conceitos/Devir.md",
+    "Conceitos/periferia do capitalismo.md",
+    "Diário/2024-09-02.md",
+    "Diário/2024-09-03.md",
+    "Diário/2024-09-04.md",
+    "Diário/2024-09-05.md",
+    "Diário/2024-09-06.md",
+    "Diário/2024-09-09.md",
+    "Diário/2024-09-11.md",
+    "Diário/2024-09-20.md",
+    "Diário/2024-09-23.md",
+    "Diário/2024-09-24.md",
+    "Diário/2024-10-02.md",
+    "Diário/2024-10-03.md",
+    "Diário/2024-10-15.md",
+    "Diário/2024-10-24.md",
+    "Diário/2024-10-28.md",
+    "Diário/2024-10-29.md",
+    "Diário/2024-11-06.md",
+    "Diário/2024-12-27.md",
+    "Diário/2025-01-22.md",
+    "Diário/2025-02-05.md",
+    "Diário/2025-02-06.md",
+    "Diário/2025-02-14.md",
+    "Diário/2025-02-17.md",
+    "Diário/2025-02-20.md",
+    "Diário/2025-02-25.md",
+    "Diário/2025-02-26.md",
+    "Diário/2025-03-01.md",
+    "Diário/2025-03-10.md",
+    "Diário/2025-03-12.md",
+    "Diário/2025-03-13.md",
+    "Diário/2025-03-14.md",
+    "Diário/2025-03-25.md",
+    "Diário/2025-04-04.md",
+    "Diário/2025-04-09.md",
+    "Diário/2025-04-15.md",
+    "Diário/2025-04-16.md",
+    "Diário/2025-04-18.md",
+    "Diário/2025-04-20.md",
+    "Diário/2025-04-21.md",
+    "Diário/2025-04-23.md",
+    "Diário/2025-04-25.md",
+    "Diário/2025-04-30.md",
+    "Diário/2025-05-05.md",
+    "Diário/2025-05-06.md",
+    "Diário/2025-05-08.md",
+    "Diário/2025-05-09.md",
+    "Diário/2025-05-11.md",
+    "Diário/2025-05-14.md",
+    "Diário/2025-05-16.md",
+    "Imagens/540px-Yves_Lacoste.jpg",
+    "Imagens/capa.png",
+    "Imagens/capa2.png",
+    "Imagens/drible.png",
+    "Imagens/drible1.png",
+    "Imagens/drible1.jpg",
+    "Imagens/drible1 1.png",
+    "Imagens/IMG_YvesLacoste.jpg",
+    "Imagens/linhasDuras.png",
+    "Imagens/linhasFlexiveis.png",
+    "Imagens/Screenshot 2024-09-02 161956.png",
+    "Sobre a pesquisa/Cronograma.md",
+    "Sobre a pesquisa/Diário da Pesquisa.md",
+    "Sobre a pesquisa/Novas jornadas.md",
+    "Sobre a pesquisa/Objetivos específicos.md",
+    "Sobre a pesquisa/Pesquisa.md",
+    "templates/Bios.md",
+    "templates/Bios 1.md",
+    "templates/categories.md",
+    "templates/comentarios.md",
+    "templates/Diário.md",
+    "templates/fIchamento.md",
+    "templates/hipertexto.md",
+    "templates/no.md",
+    "templates/no 1.md",
+    "templates/nó 1.md",
+    "templates/no 2.md",
+    "templates/Novo.md",
+    "Tramas/Colonização/Descolonizar o digital.md",
+    "Tramas/Escolhas metodológicas/A Geografia - Isso serve, em primeiro lugar, para fazer a guerra.md",
+    "Tramas/Escolhas metodológicas/Cartografia como prática da filosofia.md",
+    "Tramas/Escolhas metodológicas/Cartografia como uma ética da pesquisa.md",
+    "Tramas/Escolhas metodológicas/consistência metodológica.md",
+    "Tramas/Escolhas metodológicas/diagramas.md",
+    "Tramas/Escolhas metodológicas/linhas.md",
+    "Tramas/Escolhas metodológicas/Malha.md",
+    "Tramas/Escolhas metodológicas/Mapas.md",
+    "Tramas/Escolhas metodológicas/metódico, sensível e complexo.md",
+    "Tramas/Escolhas metodológicas/Plano de imanência.md",
+    "Tramas/Escolhas metodológicas/Rizoma.md",
+    "Tramas/Escolhas metodológicas/Sobre cartografias.md",
+    "Tramas/Tecnologia/IA Gerativa Local/DIY/Configurar/DeepSeek RAG on your machine.md",
+    "Tramas/Tecnologia/inteligência Artificial Gerativa.md",
+    "Tramas/Tecnologia/Os conceitos de Tecnologia.md",
+    "lib/media/linhasduras.png",
+    "lib/media/linhasflexiveis.png",
+    "lib/media/drible1.jpg",
+    "lib/media/img_yveslacoste.jpg",
+    "lib/media/540px-yves_lacoste.jpg",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "Bios/Alan Turing.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 3232,
+      "exportedPath": "bios/alan-turing.html",
+      "dependencies": []
+    },
+    "Bios/Álvaro Vieira Pinto.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 5315,
+      "exportedPath": "bios/álvaro-vieira-pinto.html",
+      "dependencies": []
+    },
+    "Conceitos/Amanualidade.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 3280,
+      "exportedPath": "conceitos/amanualidade.html",
+      "dependencies": []
+    },
+    "Conceitos/AnatomyOfAI.pdf": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 8096067,
+      "exportedPath": "conceitos/anatomyofai.pdf",
+      "dependencies": []
+    },
+    "Conceitos/Antropoceno.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 3262,
+      "exportedPath": "conceitos/antropoceno.html",
+      "dependencies": []
+    },
+    "Conceitos/Ciência de Dados 1.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 26,
+      "exportedPath": "conceitos/ciência-de-dados-1.html",
+      "dependencies": []
+    },
+    "Conceitos/Colonialismo.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 5963,
+      "exportedPath": "conceitos/colonialismo.html",
+      "dependencies": []
+    },
+    "Conceitos/Colonialismo digital.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 5175,
+      "exportedPath": "conceitos/colonialismo-digital.html",
+      "dependencies": []
+    },
+    "Conceitos/Colonialismo e Imperialismo de Dados.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 4728,
+      "exportedPath": "conceitos/colonialismo-e-imperialismo-de-dados.html",
+      "dependencies": []
+    },
+    "Conceitos/Devir.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 3539,
+      "exportedPath": "conceitos/devir.html",
+      "dependencies": []
+    },
+    "Conceitos/periferia do capitalismo.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 703,
+      "exportedPath": "conceitos/periferia-do-capitalismo.html",
+      "dependencies": []
+    },
+    "Diário/2024-09-02.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 307,
+      "exportedPath": "diário/2024-09-02.html",
+      "dependencies": []
+    },
+    "Diário/2024-09-03.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 306,
+      "exportedPath": "diário/2024-09-03.html",
+      "dependencies": []
+    },
+    "Diário/2024-09-04.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 306,
+      "exportedPath": "diário/2024-09-04.html",
+      "dependencies": []
+    },
+    "Diário/2024-09-05.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 2768,
+      "exportedPath": "diário/2024-09-05.html",
+      "dependencies": []
+    },
+    "Diário/2024-09-06.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 440,
+      "exportedPath": "diário/2024-09-06.html",
+      "dependencies": []
+    },
+    "Diário/2024-09-09.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 441,
+      "exportedPath": "diário/2024-09-09.html",
+      "dependencies": []
+    },
+    "Diário/2024-09-11.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 442,
+      "exportedPath": "diário/2024-09-11.html",
+      "dependencies": []
+    },
+    "Diário/2024-09-20.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 440,
+      "exportedPath": "diário/2024-09-20.html",
+      "dependencies": []
+    },
+    "Diário/2024-09-23.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 442,
+      "exportedPath": "diário/2024-09-23.html",
+      "dependencies": []
+    },
+    "Diário/2024-09-24.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 441,
+      "exportedPath": "diário/2024-09-24.html",
+      "dependencies": []
+    },
+    "Diário/2024-10-02.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 440,
+      "exportedPath": "diário/2024-10-02.html",
+      "dependencies": []
+    },
+    "Diário/2024-10-03.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 440,
+      "exportedPath": "diário/2024-10-03.html",
+      "dependencies": []
+    },
+    "Diário/2024-10-15.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 440,
+      "exportedPath": "diário/2024-10-15.html",
+      "dependencies": []
+    },
+    "Diário/2024-10-24.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 686,
+      "exportedPath": "diário/2024-10-24.html",
+      "dependencies": []
+    },
+    "Diário/2024-10-28.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 441,
+      "exportedPath": "diário/2024-10-28.html",
+      "dependencies": []
+    },
+    "Diário/2024-10-29.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 440,
+      "exportedPath": "diário/2024-10-29.html",
+      "dependencies": []
+    },
+    "Diário/2024-11-06.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 1017,
+      "exportedPath": "diário/2024-11-06.html",
+      "dependencies": []
+    },
+    "Diário/2024-12-27.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 435,
+      "exportedPath": "diário/2024-12-27.html",
+      "dependencies": []
+    },
+    "Diário/2025-01-22.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 437,
+      "exportedPath": "diário/2025-01-22.html",
+      "dependencies": []
+    },
+    "Diário/2025-02-05.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 438,
+      "exportedPath": "diário/2025-02-05.html",
+      "dependencies": []
+    },
+    "Diário/2025-02-06.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 437,
+      "exportedPath": "diário/2025-02-06.html",
+      "dependencies": []
+    },
+    "Diário/2025-02-14.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 435,
+      "exportedPath": "diário/2025-02-14.html",
+      "dependencies": []
+    },
+    "Diário/2025-02-17.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 435,
+      "exportedPath": "diário/2025-02-17.html",
+      "dependencies": []
+    },
+    "Diário/2025-02-20.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 437,
+      "exportedPath": "diário/2025-02-20.html",
+      "dependencies": []
+    },
+    "Diário/2025-02-25.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 436,
+      "exportedPath": "diário/2025-02-25.html",
+      "dependencies": []
+    },
+    "Diário/2025-02-26.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 438,
+      "exportedPath": "diário/2025-02-26.html",
+      "dependencies": []
+    },
+    "Diário/2025-03-01.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 434,
+      "exportedPath": "diário/2025-03-01.html",
+      "dependencies": []
+    },
+    "Diário/2025-03-10.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 432,
+      "exportedPath": "diário/2025-03-10.html",
+      "dependencies": []
+    },
+    "Diário/2025-03-12.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 435,
+      "exportedPath": "diário/2025-03-12.html",
+      "dependencies": []
+    },
+    "Diário/2025-03-13.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 434,
+      "exportedPath": "diário/2025-03-13.html",
+      "dependencies": []
+    },
+    "Diário/2025-03-14.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 432,
+      "exportedPath": "diário/2025-03-14.html",
+      "dependencies": []
+    },
+    "Diário/2025-03-25.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 433,
+      "exportedPath": "diário/2025-03-25.html",
+      "dependencies": []
+    },
+    "Diário/2025-04-04.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 437,
+      "exportedPath": "diário/2025-04-04.html",
+      "dependencies": []
+    },
+    "Diário/2025-04-09.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 2070,
+      "exportedPath": "diário/2025-04-09.html",
+      "dependencies": []
+    },
+    "Diário/2025-04-15.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 438,
+      "exportedPath": "diário/2025-04-15.html",
+      "dependencies": []
+    },
+    "Diário/2025-04-16.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 438,
+      "exportedPath": "diário/2025-04-16.html",
+      "dependencies": []
+    },
+    "Diário/2025-04-18.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 437,
+      "exportedPath": "diário/2025-04-18.html",
+      "dependencies": []
+    },
+    "Diário/2025-04-20.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 433,
+      "exportedPath": "diário/2025-04-20.html",
+      "dependencies": []
+    },
+    "Diário/2025-04-21.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 439,
+      "exportedPath": "diário/2025-04-21.html",
+      "dependencies": []
+    },
+    "Diário/2025-04-23.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 439,
+      "exportedPath": "diário/2025-04-23.html",
+      "dependencies": []
+    },
+    "Diário/2025-04-25.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 437,
+      "exportedPath": "diário/2025-04-25.html",
+      "dependencies": []
+    },
+    "Diário/2025-04-30.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 438,
+      "exportedPath": "diário/2025-04-30.html",
+      "dependencies": []
+    },
+    "Diário/2025-05-05.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 438,
+      "exportedPath": "diário/2025-05-05.html",
+      "dependencies": []
+    },
+    "Diário/2025-05-06.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 437,
+      "exportedPath": "diário/2025-05-06.html",
+      "dependencies": []
+    },
+    "Diário/2025-05-08.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 437,
+      "exportedPath": "diário/2025-05-08.html",
+      "dependencies": []
+    },
+    "Diário/2025-05-09.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 436,
+      "exportedPath": "diário/2025-05-09.html",
+      "dependencies": []
+    },
+    "Diário/2025-05-11.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 432,
+      "exportedPath": "diário/2025-05-11.html",
+      "dependencies": []
+    },
+    "Diário/2025-05-14.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 437,
+      "exportedPath": "diário/2025-05-14.html",
+      "dependencies": []
+    },
+    "Diário/2025-05-16.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 946,
+      "exportedPath": "diário/2025-05-16.html",
+      "dependencies": []
+    },
+    "Imagens/540px-Yves_Lacoste.jpg": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 93796,
+      "exportedPath": "imagens/540px-yves_lacoste.jpg",
+      "dependencies": []
+    },
+    "Imagens/capa.png": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 3268995,
+      "exportedPath": "imagens/capa.png",
+      "dependencies": []
+    },
+    "Imagens/capa2.png": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 591103,
+      "exportedPath": "imagens/capa2.png",
+      "dependencies": []
+    },
+    "Imagens/drible.png": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 1326148,
+      "exportedPath": "imagens/drible.png",
+      "dependencies": []
+    },
+    "Imagens/drible1.png": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 1164473,
+      "exportedPath": "imagens/drible1.png",
+      "dependencies": []
+    },
+    "Imagens/drible1.jpg": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 209720,
+      "exportedPath": "imagens/drible1.jpg",
+      "dependencies": []
+    },
+    "Imagens/drible1 1.png": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 284846,
+      "exportedPath": "imagens/drible1-1.png",
+      "dependencies": []
+    },
+    "Imagens/IMG_YvesLacoste.jpg": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 1297582,
+      "exportedPath": "imagens/img_yveslacoste.jpg",
+      "dependencies": []
+    },
+    "Imagens/linhasDuras.png": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 155510,
+      "exportedPath": "imagens/linhasduras.png",
+      "dependencies": []
+    },
+    "Imagens/linhasFlexiveis.png": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 295151,
+      "exportedPath": "imagens/linhasflexiveis.png",
+      "dependencies": []
+    },
+    "Imagens/Screenshot 2024-09-02 161956.png": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 568188,
+      "exportedPath": "imagens/screenshot-2024-09-02-161956.png",
+      "dependencies": []
+    },
+    "Sobre a pesquisa/Cronograma.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 4228,
+      "exportedPath": "sobre-a-pesquisa/cronograma.html",
+      "dependencies": []
+    },
+    "Sobre a pesquisa/Diário da Pesquisa.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 2419,
+      "exportedPath": "sobre-a-pesquisa/diário-da-pesquisa.html",
+      "dependencies": []
+    },
+    "Sobre a pesquisa/Novas jornadas.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 15696,
+      "exportedPath": "sobre-a-pesquisa/novas-jornadas.html",
+      "dependencies": []
+    },
+    "Sobre a pesquisa/Objetivos específicos.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 0,
+      "exportedPath": "sobre-a-pesquisa/objetivos-específicos.html",
+      "dependencies": []
+    },
+    "Sobre a pesquisa/Pesquisa.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 1827,
+      "exportedPath": "sobre-a-pesquisa/pesquisa.html",
+      "dependencies": []
+    },
+    "templates/Bios.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 51,
+      "exportedPath": "templates/bios.html",
+      "dependencies": []
+    },
+    "templates/Bios 1.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 1284,
+      "exportedPath": "templates/bios-1.html",
+      "dependencies": []
+    },
+    "templates/categories.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 49,
+      "exportedPath": "templates/categories.html",
+      "dependencies": []
+    },
+    "templates/comentarios.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 242,
+      "exportedPath": "templates/comentarios.html",
+      "dependencies": []
+    },
+    "templates/Diário.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 447,
+      "exportedPath": "templates/diário.html",
+      "dependencies": []
+    },
+    "templates/fIchamento.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 393,
+      "exportedPath": "templates/fichamento.html",
+      "dependencies": []
+    },
+    "templates/hipertexto.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 255,
+      "exportedPath": "templates/hipertexto.html",
+      "dependencies": []
+    },
+    "templates/no.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 737,
+      "exportedPath": "templates/no.html",
+      "dependencies": []
+    },
+    "templates/no 1.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 645,
+      "exportedPath": "templates/no-1.html",
+      "dependencies": []
+    },
+    "templates/nó 1.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 348,
+      "exportedPath": "templates/nó-1.html",
+      "dependencies": []
+    },
+    "templates/no 2.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 460,
+      "exportedPath": "templates/no-2.html",
+      "dependencies": []
+    },
+    "templates/Novo.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 395,
+      "exportedPath": "templates/novo.html",
+      "dependencies": []
+    },
+    "Tramas/Colonização/Descolonizar o digital.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 6314,
+      "exportedPath": "tramas/colonização/descolonizar-o-digital.html",
+      "dependencies": []
+    },
+    "Tramas/Escolhas metodológicas/A Geografia - Isso serve, em primeiro lugar, para fazer a guerra.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 0,
+      "exportedPath": "tramas/escolhas-metodológicas/a-geografia-isso-serve,-em-primeiro-lugar,-para-fazer-a-guerra.html",
+      "dependencies": []
+    },
+    "Tramas/Escolhas metodológicas/Cartografia como prática da filosofia.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 8636,
+      "exportedPath": "tramas/escolhas-metodológicas/cartografia-como-prática-da-filosofia.html",
+      "dependencies": []
+    },
+    "Tramas/Escolhas metodológicas/Cartografia como uma ética da pesquisa.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 5492,
+      "exportedPath": "tramas/escolhas-metodológicas/cartografia-como-uma-ética-da-pesquisa.html",
+      "dependencies": []
+    },
+    "Tramas/Escolhas metodológicas/consistência metodológica.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 3522,
+      "exportedPath": "tramas/escolhas-metodológicas/consistência-metodológica.html",
+      "dependencies": []
+    },
+    "Tramas/Escolhas metodológicas/diagramas.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 6045,
+      "exportedPath": "tramas/escolhas-metodológicas/diagramas.html",
+      "dependencies": []
+    },
+    "Tramas/Escolhas metodológicas/linhas.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 4161,
+      "exportedPath": "tramas/escolhas-metodológicas/linhas.html",
+      "dependencies": [
+        "lib/media/linhasduras.png",
+        "lib/media/linhasflexiveis.png",
+        "lib/media/drible1.jpg"
+      ]
+    },
+    "Tramas/Escolhas metodológicas/Malha.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 2100,
+      "exportedPath": "tramas/escolhas-metodológicas/malha.html",
+      "dependencies": []
+    },
+    "Tramas/Escolhas metodológicas/Mapas.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 9505,
+      "exportedPath": "tramas/escolhas-metodológicas/mapas.html",
+      "dependencies": []
+    },
+    "Tramas/Escolhas metodológicas/metódico, sensível e complexo.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 28244,
+      "exportedPath": "tramas/escolhas-metodológicas/metódico,-sensível-e-complexo.html",
+      "dependencies": []
+    },
+    "Tramas/Escolhas metodológicas/Plano de imanência.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 2409,
+      "exportedPath": "tramas/escolhas-metodológicas/plano-de-imanência.html",
+      "dependencies": []
+    },
+    "Tramas/Escolhas metodológicas/Rizoma.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 2716,
+      "exportedPath": "tramas/escolhas-metodológicas/rizoma.html",
+      "dependencies": []
+    },
+    "Tramas/Escolhas metodológicas/Sobre cartografias.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 6986,
+      "exportedPath": "tramas/escolhas-metodológicas/sobre-cartografias.html",
+      "dependencies": [
+        "lib/media/img_yveslacoste.jpg",
+        "lib/media/540px-yves_lacoste.jpg"
+      ]
+    },
+    "Tramas/Tecnologia/IA Gerativa Local/DIY/Configurar/DeepSeek RAG on your machine.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 2256,
+      "exportedPath": "tramas/tecnologia/ia-gerativa-local/diy/configurar/deepseek-rag-on-your-machine.html",
+      "dependencies": []
+    },
+    "Tramas/Tecnologia/inteligência Artificial Gerativa.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 3733,
+      "exportedPath": "tramas/tecnologia/inteligência-artificial-gerativa.html",
+      "dependencies": []
+    },
+    "Tramas/Tecnologia/Os conceitos de Tecnologia.md": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 3386,
+      "exportedPath": "tramas/tecnologia/os-conceitos-de-tecnologia.html",
+      "dependencies": []
+    },
+    "lib/media/linhasduras.png": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 155510,
+      "exportedPath": "lib/media/linhasduras.png",
+      "dependencies": []
+    },
+    "lib/media/linhasflexiveis.png": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 295151,
+      "exportedPath": "lib/media/linhasflexiveis.png",
+      "dependencies": []
+    },
+    "lib/media/drible1.jpg": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 209720,
+      "exportedPath": "lib/media/drible1.jpg",
+      "dependencies": []
+    },
+    "lib/media/img_yveslacoste.jpg": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 1297582,
+      "exportedPath": "lib/media/img_yveslacoste.jpg",
+      "dependencies": []
+    },
+    "lib/media/540px-yves_lacoste.jpg": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 93796,
+      "exportedPath": "lib/media/540px-yves_lacoste.jpg",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 88807,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 5361,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 138258,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/other-plugins.css": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 16404,
+      "exportedPath": "lib/styles/other-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 262,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1747478456952,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
